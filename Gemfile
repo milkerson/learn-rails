@@ -14,7 +14,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 #learn-rails
 gem 'foundation-rails', '~> 5.5.3.2'
-gem 'gibbon'
+gem 'gibbon', '~>1.2.0'
 gem 'high_voltage'
 gem 'simple_form'
 
