@@ -40,9 +40,7 @@ group :production do
 end
 
 group :test do
-  gem 'capybara'
-  gem 'database_cleaner'
-  gem 'launchy'
-  gem 'selenium-webdriver'
+  gem 'minitest-spec-rails'
+  gem 'minitest-rails-capybara'
 end
 
